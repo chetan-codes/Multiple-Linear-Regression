@@ -7,7 +7,7 @@ Welcome to the Multiple Linear Regression repository! This project focuses on im
 Multiple linear regression is a powerful tool for predictive modeling and is widely used in various fields such as economics, finance, and social sciences. In this repository, you'll find the implementation of multiple linear regression using Python.
 
 ## Contents
-- `multiple_linear_regression.ipynb`: Jupyter Notebook containing the Python code for implementing a basic multiple linear regression model.
+- `MLR-withSklearn.ipynb`: Jupyter Notebook containing the Python code for implementing a basic multiple linear regression model.
 - `50_startups.csv`: CSV file containing the dataset of 50 startups used for regression analysis.
 
 ## Approach
